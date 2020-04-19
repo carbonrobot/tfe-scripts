@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "bin": {
-    "hello": "./scripts/hello"
+    "hello": "./scripts/hello",
+    "hello2": "./scripts/hello2"
   }
 }
