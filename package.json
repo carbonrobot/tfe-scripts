@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
-  "bin": {
-    "hello": "./hello.sh",
-    "hello2": "./hello2.js"
-  }
+  "bin": "./hello2.js"
 }
