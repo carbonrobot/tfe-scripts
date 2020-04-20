@@ -4,6 +4,7 @@
   "description": "",
   "license": "MIT",
   "bin": {
-    "tfe-scripts": "hello"
+    "tfe-scripts": "scripts/hello",
+    "hello2": "scripts/hello2"
   }
 }
