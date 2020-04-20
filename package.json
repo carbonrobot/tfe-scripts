@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
-  "bin": "hello"
+  "bin": {
+    "tfe-scripts": "hello"
+  }
 }
